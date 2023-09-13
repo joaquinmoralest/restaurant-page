@@ -67,7 +67,7 @@ ul {
 
 main {
   background-color: rgba(255, 255, 255, .3);
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(6px);
   border-radius: 5px;
   width: 100%;
   min-height: 60vh;
